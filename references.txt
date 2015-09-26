@@ -1,0 +1,11 @@
+http://www.nytimes.com/2013/06/05/dining/the-big-question-whats-in-wine.html?_r=1
+http://winefolly.com/review/wine-additives/
+http://had.co.nz/stat480/lectures/07-r-intro.pdf
+http://wilkelab.org/classes/SDS348/2015_spring_discussions/Discussion2.html
+http://www.ling.upenn.edu/~joseff/rstudy/summer2010_ggplot2_intro.html
+http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/
+http://ggplot2.org/resources/2007-vanderbilt.pdf
+http://docs.ggplot2.org/current/
+http://www.twotorials.com/
+https://cran.r-project.org/doc/contrib/Short-refcard.pdf
+
