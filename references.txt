@@ -8,4 +8,6 @@ http://ggplot2.org/resources/2007-vanderbilt.pdf
 http://docs.ggplot2.org/current/
 http://www.twotorials.com/
 https://cran.r-project.org/doc/contrib/Short-refcard.pdf
-
+http://www.sthda.com/english/wiki/ggplot2-axis-ticks-a-guide-to-customize-tick-marks-and-labels#hide-x-and-y-axis-tick-mark-labels
+http://sape.inf.usi.ch/quick-reference/ggplot2/colour
+https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
